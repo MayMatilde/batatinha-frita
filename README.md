@@ -1,6 +1,6 @@
 # spoifds
 Primeiro Repositório]
 
-ALUNO 1- Maria Fernanda 
+ALUNO 1- Mayara Matilde 
 
-ALUNO 2- Mayara Matilde                                     
+ALUNO 2- Maria Fernanda                                     
